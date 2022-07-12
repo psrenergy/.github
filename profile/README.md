@@ -7,4 +7,4 @@ For more information access: https://www.psr-inc.com/psr-en/presentation/
 Here we host:
 - Open-Source software
 - Utilities for PSR users
-- Documentation, manual and release notes of our products
+- Documentations, manuals and release notes of our products
